@@ -190,39 +190,39 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "IDESGC",
-        image: Braces,
+        image: "/web1.PNG",
         urlGithub: "https://github.com/OsitoDobbie10/web-demo-idesgc",
         urlDemo: "https://web-sig-demo.netlify.app/",
     },
     {
         id: 2,
         title: "Aplicacion de vista de peliculas YT Movies",
-        image: Video,
+        image: "/MovieYT.png",
         urlGithub: "https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo: "https://superb-sunburst-bdc8cf.netlify.app/",
     },
     {
         id:3,
         title:"Aplicacion de monitoreo SQL InCMS solo Vista Front primera version sin vista a datos de produccion",
-        image:AppWindow,
+        image:"/Web4.PNG",
         urlGithub:"https://github.com/OsitoDobbie10/pasebatch-hn",
         urlDemo:"https://vistapasebatch.netlify.app/"
     },
-      {
+    
+     {
         id:4,
         title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
-        image:DatabaseZap,
+        image:"https://insightsoftware.com/wp-content/uploads/2018/05/microsoft-power-bi-maps-tutorial-1170x400.jpg",
         urlGithub:"https://app.powerbi.com/view?r=eyJrIjoiNjU5YmM0YTEtNWU3ZS00NGI0LTgzYjgtYTRjNWJhMDM3ZTY2IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9",
         urlDemo:"https://vistapasebatch.netlify.app/"
     },
     {
         id:5,
         title:"Dashboard para recursos humanos vista",
-        image:Database,
+        image:"https://cdn-icons-png.flaticon.com/512/9670/9670755.png",
         urlGithub:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9",
         urlDemo:"https://vistapasebatch.netlify.app/"
     }
-
 ];
 
 export const dataTestimonials = [
