@@ -26,9 +26,10 @@ const page = () => {
         </span>
     </h1>
     <p className="mb-3 text-xl text-gray-300 text-justify">
-        Ofrezco servicios de analisis, edicion y creacion de datos espaciales, administracion de base de datos espaciales, 
-        analisis de datos y creacion de visualizadores enfocada en datos y desarrollo web full stack en un esquema basado 
-        Javascript en el backend con NestJS y supabase o el uso de CMS como strapi y en el cliente el uso de React con NextJS.
+        Ofrezco servicios de analisis, edicion y creacion de datos espaciales con ArcgisPro y QGIS, administracion de base de datos relacionales  
+        con postgresSQL, MySQL, Oracle y MySQL. Analisis de datos ETL y creacion de visualizadores con PowerBi, programacion con python enfocada a analisis de datos,
+        scripting, webscraping, creacion de interfaces graficas, analisis estadistico y gismapping, programacion con javascript orientada a desarrollo web con next.js,
+        manejo de servidores windows, Linux, Docker AWS y Git para gestion de procesos, manejo y uso de Autocad y levantamiento Topografico.
     </p>
     <button
     onClick={sendMessage}
