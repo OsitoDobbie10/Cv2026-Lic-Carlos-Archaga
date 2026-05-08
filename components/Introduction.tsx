@@ -17,7 +17,7 @@ const Introduction = () => {
     <Image src={Imagen1} priority width="400" height="350" alt='Profile Gis' />
     <div className="flex flex-col justify-center max-w-md">
      <h2 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">
-     GIS, <br />
+     GIS y Analisis de datos. <br />
     <TypeAnimation 
     sequence={[
         "Desarrollo y analisis GIS",
