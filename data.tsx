@@ -59,47 +59,61 @@ export const itemsNavbar = [
 ];
 
 export const dataAboutPage = [
-    {
+      {
         id: 1,
+        title: "Lic. Ciencia y Tecnologia de la Informacion Geografica",
+        subtitle: "Universidad Nacional Autonoma de Honduras",
+        description: "La Carrera de Ciencia y Tecnologías de la Información Geográfica se ocupa del estudio, la investigación, manejo y generación de información geográfica o geoespacial que constituye  a representación aproximada de los fenómenos geográficos que se producen en el espacio en el que se desarrolla la sociedad, para esto integra el estudio de los  Sistemas de Información Geográfica, la Percepción Remota, Sistemas de Posicionamiento Global y el manejo de bases datos espaciales para el desarrollo de la cartografía y el análisis espacial.",
+        date: "Enero 2017-Marzo 2022",
+    },
+    {
+        id: 2,
         title: "Analista GIS",
         subtitle: "TICO CONSULTORES DE INGENERIA Y TOPOGRAFIA",
         description: "Analista SIG en el proyecto reubicación de personas afectadas por los huracanes ETA, IOTA mapeode zonas inundadas con imágenes de RADAR, Fotogrametría obtención en campo vuelo de Drone apoyado con GPS de precisión y productos de interés para la identificación de los zonas de reubicación de las personas afectadas.",
         date: "Feberero 2021-Mayo 2021",
     },
     {
-        id: 2,
+        id: 3,
         title: "Analista y desarrollador GIS",
         subtitle: "INGENERIA GERENCIAL",
         description: `Analista SIG en el departamento de GIS de ingeniería gerencial y desarrollador en la creación de publicaciones de mapas web con tecnología ESRI en un sistema portal de servicios Enterprise de ArcGIS usando las tecnologías esenciales y api de JavaScript, Procesamiento de imágenes de drones con el software Pix4di Mapper y Matic, Automatización de procesos con ARCPY en ARCGISPRO, Creación de caja de herramientas para procesamiento de gran volumen de datos`,
         date: "Junio 2022-Junio 2023",
     },
     {
-        id: 3,
+        id: 4,
         title: "Dibujante y supervisor de construcción",
         subtitle: "TEKCOM",
         description: "Creación de planos de instalación de fibra óptica, aplicaciones enfocadas en coordenadas para visualización de zonas de interés, aplicaciones web de mapas para toma de daciones",
         date: "Agosto 2023-Octubre 2023",
     },
     {
-        id: 4,
+        id: 5,
         title: "Técnico GIS1",
         subtitle: "INE censo nacional agropecuario y vivienda",
         description: "Supervisor en la actualización cartográfica por municipios para la carga y distribución de aplicaciones móvil para cuadrillas de actualización, Creación de herramientas de automatización de digitalización con Python y ModelBuilder",
         date: "Noviembre 2023- Mayo 2024",
     },
     {
-        id: 5,
+        id: 6,
         title: "Operador Servicios Comerciales",
         subtitle: "ENEE Distribucion UTCD",
         description: `Operador de proceso de facturación y recepción de datos en el cobro de energía eléctrica a nivel nacional, monitoreo SQL, Creación de aplicaciones de visualización de los indicadores de a base de datos usando NestJS en el backend y React en el frontEnd conectando a la base de datos de producción de Oracle de UTCD, Monitoreo SQL en la ejecución de pase batch inCMS, creacion de aplicaciones de escritorio con python PYQT6, Pandas, docxs y oraclecsx.`,
-        date: "Marzo 2024-Actualidad",
+        date: "Marzo 2024-Abril 2026",
     },
     {
-        id: 6,
+        id: 7,
         title: "Tecnico Mantenimiento Catastral",
         subtitle: "Gerencia de catastro AMDC",
         description: `Tecnico sectores urbanos catastro AMDC sector 01, 06, 10, 12, 13, 17, 19, 20, 25, 27 y 29 avaluo catastral de bienes inmuebles como lotes baldios, Uso Mixto, propiedad Horizontal, Uso de Autocad, QGIS y Arcgis Pro`,
-        date: "Junio 2024-Enero 2026 ",
+        date: "Junio 2024-Marzo 2026",
+    },
+     {
+        id: 8,
+        title: "Cursando Maestria Ciencia de Datos",
+        subtitle: "GEM Educa",
+        description: `Programa especializado en ciencia de datos, enfocándose en la aplicación práctica de herramientas como Python, R y SQL para el análisis de grandes volúmenes de datos, Machine Learning y econometría.`,
+        date: "Enero 2026-Diciembre 2026",
     }
 
 ]
@@ -133,6 +147,13 @@ export const dataCounter = [
         lineRight: false,
         lineRightMobile: false,
     },
+     {
+        id: 4,
+        endCounter: 16,
+        text: "Certificados obtenidos",
+        lineRight: false,
+        lineRightMobile: false,
+    }
 ];
 
 export const serviceData = [
