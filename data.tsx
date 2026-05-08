@@ -1,4 +1,6 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Facebook,Rss, Twitch, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Facebook,Rss, 
+         Twitch, Crop, NotebookPen, Computer, Book, Rocket, Speech, ChevronsLeftRightEllipsis,
+          Video, AppWindow,DatabaseZap,Database} from "lucide-react";
 import { title } from "process";
 
 export const socialNetworks = [
@@ -158,14 +160,9 @@ export const dataCounter = [
 
 export const serviceData = [
     {
-        icon: <Pencil />,
+        icon: <Computer />,
         title: "Diseño web",
         description: "Diseño creativo y profesional de interfaces web intuitivas y atractivas, centradas en la experiencia del usuario",
-    },
-    {
-        icon: <Computer />,
-        title: "Desarrollo web",
-        description: "Diseño de aplicaciones full stack enfocadas a la nesecidad del cliente",
     },
     {
         icon: <Book />,
@@ -181,6 +178,11 @@ export const serviceData = [
         icon: <Rocket />,
         title: "Business Intelligence",
         description: "Programacion Python enfocado a datos, SQL, power Bi con DAX y computacion en la nube",
+    },
+       {
+        icon: <NotebookPen />,
+        title: "Levantamientos Topograficos",
+        description: "Levantamiento GPS diferencial con equipos de alta precision, procesamiento de datos con software de fotogrametria y manejo de sofyware de CAD para la creacion de planos topograficos",
     }
 ];
 
@@ -188,31 +190,39 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "IDESGC",
-        image: "/web1.PNG",
+        image: ChevronsLeftRightEllipsis,
         urlGithub: "https://github.com/OsitoDobbie10/web-demo-idesgc",
         urlDemo: "https://web-sig-demo.netlify.app/",
     },
     {
         id: 2,
-        title: "Aplicacion de venta de comidas",
-        image: "/web2.PNG",
-        urlGithub: "https://github.com/OsitoDobbie10/DaniDonasweb",
-        urlDemo: "https://tiendavirtualcompras.netlify.app/",
-    },
-    {
-        id: 3,
         title: "Aplicacion de vista de peliculas YT Movies",
-        image: "/MovieYT.png",
+        image: Video,
         urlGithub: "https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo: "https://superb-sunburst-bdc8cf.netlify.app/",
     },
     {
-        id:4,
-        title:"Aplicacion de monitoreo SQL InCMS solo Vista Front primera version",
-        image:"/Web4.PNG",
+        id:3,
+        title:"Aplicacion de monitoreo SQL InCMS solo Vista Front primera version sin vista a datos de produccion",
+        image:AppWindow,
         urlGithub:"https://github.com/OsitoDobbie10/pasebatch-hn",
         urlDemo:"https://vistapasebatch.netlify.app/"
+    },
+      {
+        id:4,
+        title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
+        image:DatabaseZap,
+        urlGithub:"https://app.powerbi.com/view?r=eyJrIjoiNjU5YmM0YTEtNWU3ZS00NGI0LTgzYjgtYTRjNWJhMDM3ZTY2IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9",
+        urlDemo:"https://vistapasebatch.netlify.app/"
+    },
+    {
+        id:5,
+        title:"Dashboard para recursos humanos vista",
+        image:Database,
+        urlGithub:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9",
+        urlDemo:"https://vistapasebatch.netlify.app/"
     }
+
 ];
 
 export const dataTestimonials = [
