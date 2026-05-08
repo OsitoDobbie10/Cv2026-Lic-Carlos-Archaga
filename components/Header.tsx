@@ -11,7 +11,7 @@ const Header = () => {
         <h1 className="my-3 text-4xl font-bold text-center md:text-left">
         GIS {''}
         <span className="text-secondary">
-        devs
+        Data Science.
         </span>
         </h1>
       </Link>
