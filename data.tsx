@@ -1,5 +1,5 @@
 import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Facebook,Rss, 
-         Twitch, Crop, NotebookPen, Computer, Book, Rocket, Speech, ChevronsLeftRightEllipsis,
+         Twitch, Crop, NotebookPen, Computer, Book, Rocket, Speech, Braces,
           Video, AppWindow,DatabaseZap,Database} from "lucide-react";
 import { title } from "process";
 
@@ -190,7 +190,7 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "IDESGC",
-        image: ChevronsLeftRightEllipsis,
+        image: Braces,
         urlGithub: "https://github.com/OsitoDobbie10/web-demo-idesgc",
         urlDemo: "https://web-sig-demo.netlify.app/",
     },
