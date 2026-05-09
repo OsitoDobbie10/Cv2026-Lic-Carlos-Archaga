@@ -226,32 +226,32 @@ export const dataPortfolio = [
 ];
 
 export const dataTestimonials = [
-    {
+           {
         id: 1,
+        name: "Analisis de datos y ciencia de datos",
+        description:
+            "Analisis de datos enfocada a la inteligencia de negocios y manipulacion de datos usando Python, Base de datos con SQL, Visualizacion con PowerBi, excel y Python, webscrapping, manejo de Fabric de office y computacion en la nube con Azure",
+        imageUrl: "/Ecosistema-analisisdatos.webp",
+      },
+    {
+        id: 2,
         name: "Arcgis PRO, entorno web de Arcgis online y entherprise",
         description:"Manejo en el ecosistema de ESRI desde arcgis desktop y pro, arcgis online y portal para entherprise, manejo de aplicaciones escenciales y customizacion con esri developer usando la api de Javascript y React",
         imageUrl: "/ESRI-ecosistema.jpg",
     },
     {
-        id: 2,
+        id: 3,
         name: "QGIS y desarrollo GIS opensource",
         description:
             "Manejo del software QGIS, cliente web leaflet,mapbox y open layers, despliegue y mantenimiento de servicios GIS web con geoserver, mapstore, geonetwork y postgis como gestor de base de datos",
         imageUrl: "/GIS-OPEN.png",
     },
     {
-        id: 3,
+        id: 4,
         name: "Desarrollo web",
         description:
             "Esquema de desarrollo enfocado en Javascript usando como cliente ReactJS con NextJS14, backend uso NestJS, Supabase con PostgresSQL y Strapi con PostgresSQL",
         imageUrl: "/Ecosistema-JS.jpg",
-    },
-    {
-        id: 4,
-        name: "Analisis de datos",
-        description:
-            "Analisis de datos enfocada a la inteligencia de negocios y representacion de datos usando R, Python, SQL, PowerBi y excel",
-        imageUrl: "/Ecosistema-analisisdatos.webp",
     },
     {
         id: 5,
