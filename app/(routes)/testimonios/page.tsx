@@ -14,7 +14,7 @@ const page = () => {
     <h1 className="text-center text-2xl leading-tight md:text-4xl md:mb-5">
      Mi skills {''}
      <span className='font-bold text-secondary'>
-     GIS y web  
+     de servicios profesionales  
      </span>
     </h1>
     <div className="flex items-center justify-center h-[500px]">
