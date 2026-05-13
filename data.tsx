@@ -222,7 +222,14 @@ export const dataPortfolio = [
         image:"/Vista Para CV 2.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
-    }
+    },
+   { 
+        id:6,
+        title:"Dashboard para recursos humanos vista",
+        image:"/Vista Para CV 3.png",
+        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
+        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiMGZjOTUzMWMtNzkzMC00YTQ0LThkYWItZWMwZjQ2NWRiMGVmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
+   }
 ];
 
 export const dataTestimonials = [
