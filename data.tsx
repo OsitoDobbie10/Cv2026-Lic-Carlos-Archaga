@@ -212,14 +212,14 @@ export const dataPortfolio = [
      {
         id:4,
         title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
-        image:"https://insightsoftware.com/wp-content/uploads/2018/05/microsoft-power-bi-maps-tutorial-1170x400.jpg",
+        image:"/Vista Para CV 2.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNjU5YmM0YTEtNWU3ZS00NGI0LTgzYjgtYTRjNWJhMDM3ZTY2IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
     },
     {
         id:5,
         title:"Dashboard para recursos humanos vista",
-        image:"https://cdn-icons-png.flaticon.com/512/9670/9670755.png",
+        image:"/Vista Para CV 1.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
     }
