@@ -225,7 +225,7 @@ export const dataPortfolio = [
     },
    { 
         id:6,
-        title:"Dashboard para recursos humanos vista",
+        title:"Dashboard de proyecto webscraping del Censo Agropecuario INE",
         image:"/Vista Para CV 3.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiMGZjOTUzMWMtNzkzMC00YTQ0LThkYWItZWMwZjQ2NWRiMGVmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
