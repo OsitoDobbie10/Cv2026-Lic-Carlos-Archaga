@@ -33,7 +33,7 @@ const Introduction = () => {
     />            
     </h2>
    <p className="mx-auto mb-2 text-xl md:mx-0 md:mb-8 text-justify">
-    Como experto en ciencas y tecnologia de la informacion geografica me dedico al analisis de datos espaciales, me especializo en 
+    Como experto en ciencias y tecnologia de la informacion geografica me dedico al analisis de datos espaciales, me especializo en 
     la tematica de ciencia de datos y estoy en futura formacion en el entorno de desarrollo DevOps.
    </p>
    <div className="flex items-center justify-center gap-3 md:justify-start">
