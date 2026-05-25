@@ -17,7 +17,7 @@ export const socialNetworks = [
     {
         id: 3,
         logo: <Rss size={30} strokeWidth={1} />,
-        src: "https://github.com/OsitoDobbie10",
+        src: "https://github.com/OsitoDobbie10", 
     },
     {
         id: 4,
