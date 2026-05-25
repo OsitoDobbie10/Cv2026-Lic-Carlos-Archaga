@@ -229,7 +229,15 @@ export const dataPortfolio = [
         image:"/Vista Para CV 3.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiMGZjOTUzMWMtNzkzMC00YTQ0LThkYWItZWMwZjQ2NWRiMGVmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
+   },
+   { 
+        id:7,
+        title:"Dashboard de proyecto ETL API TMDB con python, Supabase y Power Bi",
+        image:"/IMG-CV-7.png",
+        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
+        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiYzE2ZTY0YTYtODM5YS00YmRjLThmYmItYWZhMGNiMjg1MjZmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
    }
+         
 ];
 
 export const dataTestimonials = [
