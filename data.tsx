@@ -232,7 +232,7 @@ export const dataPortfolio = [
    },
    { 
         id:7,
-        title:"Dashboard de proyecto ETL API TMDB con python, Supabase y Power Bi",
+        title:"Dashboard de proyecto ETL API TMDB con python, Supabase y Power Bi ejemplo practico Ciencia de datos",
         image:"/IMG-CV-7.png",
         urlGithub:"https://github.com/OsitoDobbie10/WebScrapping-DBA-Python-Carlos-Archaga",
         urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiYzE2ZTY0YTYtODM5YS00YmRjLThmYmItYWZhMGNiMjg1MjZmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
