@@ -15,7 +15,7 @@ const page = () => {
      Mi skills {''}
      <span className='font-bold text-secondary'>
      de servicios profesionales  
-     </span>
+     </span> <br> Desliza para ver mas contenidos.
     </h1>
     <div className="flex items-center justify-center h-[500px]">
     <div>
