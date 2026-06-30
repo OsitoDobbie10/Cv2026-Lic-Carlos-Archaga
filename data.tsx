@@ -201,35 +201,29 @@ export const dataPortfolio = [
         urlGithub:"https://github.com/OsitoDobbie10/pasebatch-hn",
         urlDemo:"https://vistapasebatch.netlify.app/"
     },
-    
-     {
+    { 
         id:3,
-        title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
-        image:"/Vista Para CV 1.png",
-        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
-        urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNjU5YmM0YTEtNWU3ZS00NGI0LTgzYjgtYTRjNWJhMDM3ZTY2IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
-    },
-    {
-        id:4,
-        title:"Dashboard para recursos humanos vista",
-        image:"/Vista Para CV 2.png",
-        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
-        urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
-    },
-   { 
-        id:5,
-        title:"Dashboard de proyecto webscraping del Censo Agropecuario INE",
-        image:"/Vista Para CV 3.png",
-        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
-        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiMGZjOTUzMWMtNzkzMC00YTQ0LThkYWItZWMwZjQ2NWRiMGVmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
-   },
-   { 
-        id:6,
         title:"Dashboard de proyecto ETL API TMDB con python, Supabase y Power Bi ejemplo practico Ciencia de datos",
         image:"/IMG-CV-7.png",
         urlGithub:"https://github.com/OsitoDobbie10/WebScrapping-DBA-Python-Carlos-Archaga",
-        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiYzE2ZTY0YTYtODM5YS00YmRjLThmYmItYWZhMGNiMjg1MjZmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
-   }
+        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiZWNlNDFiZGQtYTU2Yi00ZTkyLThjZmYtM2Y5MzRjMzc1OWQyIiwidCI6IjY3OGE1ODM2LWJkOTMtNGNlOS1hZDc2LWFkM2JlZTQyZjE2NiIsImMiOjZ9"      
+    },
+    { 
+        id:4,
+        title:"Dashboard de proyecto webscraping del Censo Agropecuario INE",
+        image:"/Vista Para CV 3.png",
+        urlGithub:"https://github.com/OsitoDobbie10/WebScrapping-DBA-Python-Carlos-Archaga",
+        urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiNDNlZjM3MTgtNjE5Ni00OWQ3LWE1ZjMtZjg0NmJkMzM1NTk0IiwidCI6IjY3OGE1ODM2LWJkOTMtNGNlOS1hZDc2LWFkM2JlZTQyZjE2NiIsImMiOjZ9"   
+     },
+     {
+        id:5,
+        title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
+        image:"/Vista Para CV 1.png",
+        urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
+        urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiMzJhZjBmNWYtNTBiZS00NWFjLWEzZTAtMDU4Y2Y5OWRjZjFjIiwidCI6IjY3OGE1ODM2LWJkOTMtNGNlOS1hZDc2LWFkM2JlZTQyZjE2NiIsImMiOjZ9"
+    },
+ 
+
          
 ];
 
