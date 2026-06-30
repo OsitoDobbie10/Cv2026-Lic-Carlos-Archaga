@@ -195,14 +195,7 @@ export const dataPortfolio = [
         urlDemo: "https://web-sig-demo.netlify.app/",
     },
     {
-        id: 2,
-        title: "Aplicacion de vista de peliculas YT Movies",
-        image: "/MovieYT.png",
-        urlGithub: "https://github.com/OsitoDobbie10/MoviesYT_APP_React",
-        urlDemo: "https://superb-sunburst-bdc8cf.netlify.app/",
-    },
-    {
-        id:3,
+        id:2,
         title:"Aplicacion de monitoreo SQL InCMS solo Vista Front primera version sin vista a datos de produccion",
         image:"/Web4.PNG",
         urlGithub:"https://github.com/OsitoDobbie10/pasebatch-hn",
@@ -210,28 +203,28 @@ export const dataPortfolio = [
     },
     
      {
-        id:4,
+        id:3,
         title:"Dashboard AMDC para visualizar uso de graficos con content HTML",
         image:"/Vista Para CV 1.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNjU5YmM0YTEtNWU3ZS00NGI0LTgzYjgtYTRjNWJhMDM3ZTY2IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
     },
     {
-        id:5,
+        id:4,
         title:"Dashboard para recursos humanos vista",
         image:"/Vista Para CV 2.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo:"https://app.powerbi.com/view?r=eyJrIjoiNzM1ODUwZDItYjNmYS00MTIwLTlmMjAtZjFmMzkyYWFjYzE4IiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"
     },
    { 
-        id:6,
+        id:5,
         title:"Dashboard de proyecto webscraping del Censo Agropecuario INE",
         image:"/Vista Para CV 3.png",
         urlGithub:"https://github.com/OsitoDobbie10/MoviesYT_APP_React",
         urlDemo: "https://app.powerbi.com/view?r=eyJrIjoiMGZjOTUzMWMtNzkzMC00YTQ0LThkYWItZWMwZjQ2NWRiMGVmIiwidCI6ImMxYjIyNzEzLWUwMTUtNDQ5Ny04YWY3LWFjNzY4MDNmZGFjNSIsImMiOjR9"         
    },
    { 
-        id:7,
+        id:6,
         title:"Dashboard de proyecto ETL API TMDB con python, Supabase y Power Bi ejemplo practico Ciencia de datos",
         image:"/IMG-CV-7.png",
         urlGithub:"https://github.com/OsitoDobbie10/WebScrapping-DBA-Python-Carlos-Archaga",
